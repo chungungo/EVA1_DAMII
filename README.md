@@ -4,7 +4,7 @@ Desarrollo Aplicaciones móviles II
 <html>
   <body>
     
-    <h1 align="center">Calculadora de figuras geometricas</h1>
+    <h1>Calculadora de figuras geometricas</h1>
     <div align="center">
       <img src="mockup1.png" alt="portada">
     </div>
