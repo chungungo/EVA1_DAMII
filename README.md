@@ -8,7 +8,7 @@ Desarrollo Aplicaciones móviles II
   </head>
   <body>
     <div align="center">
-    <img src="imagenes/calculadora1.png" alt="portada">
+    <img src="calculadora1.png" alt="portada">
     </div>
   </body>
 </html>
