@@ -7,7 +7,7 @@ Desarrollo Aplicaciones móviles II
     <title>Calculadoras de figuras geometricas</title>
   </head>
   <body>
-    <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
+    <img src="D:\imagenes\mockup\calculadora1" alt="Mi imagen de prueba">
     
   </body>
 </html>
