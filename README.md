@@ -12,6 +12,7 @@ Desarrollo Aplicaciones móviles II
     <div align="center">
       <img src="mockup1.png" alt="portada">
     </div>
+    <hr>
     <div align="center">
       <img src="mockup2.png" alt="portada">
     </div>
