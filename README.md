@@ -29,4 +29,9 @@ Desarrollo Aplicaciones móviles II
       <img src="mockup5.png" alt="portada">
     </div>
   </body>
+  <hr>
+  <h1>Fórmulas</h1>
+    <div align="center">
+      <img src="formulas.png" alt="portada">
+    </div>
 </html>
