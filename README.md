@@ -4,10 +4,9 @@ Desarrollo Aplicaciones móviles II
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Calculadoras de figuras geometricas</title>
+    <title>Calculadora de figuras geometricas</title>
   </head>
   <body>
-    <img src="D:\imagenes\mockup\calculadora1" alt="Mi imagen de prueba">
-    
+    <img src="images/calculadora1.png" alt="portada">
   </body>
 </html>
