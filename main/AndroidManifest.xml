@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.bacunos.eva1">
+    package="com.android.bacunos.eva13">
 
     <application
         android:allowBackup="true"
@@ -9,13 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".actividades.AcercaActivity"></activity>
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".actividades.CuadradoActivity" />
+        <activity android:name=".actividades.RomboActivity" />
+        <activity android:name=".actividades.TrianguloActivity" />
+        <activity android:name=".actividades.CirculoActivity" />
+        <activity android:name=".actividades.RectanguloActivity" />
+        <activity android:name=".actividades.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>
