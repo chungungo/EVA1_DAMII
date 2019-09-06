@@ -7,6 +7,8 @@ Desarrollo Aplicaciones móviles II
     <title>Calculadora de figuras geometricas</title>
   </head>
   <body>
+    <div align="center">
     <img src="images/calculadora1.png" alt="portada">
+    </div>
   </body>
 </html>
